@@ -11,6 +11,7 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
+<<<<<<< HEAD:NodeJS - JWT/package.json
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "jsonwebtoken": "^8.5.1",
@@ -19,6 +20,11 @@
     "passport": "^0.5.3",
     "passport-http-bearer": "^1.0.1",
     "passport-local": "^1.0.0",
+=======
+    "express": "^4.18.1",
+    "node-pre-gyp": "^0.17.0",
+    "nodemon": "^2.0.2",
+>>>>>>> b4c27d56e13907971e200715243a72b3746aa9eb:NodeJS e JWT/package.json
     "sqlite3": "^5.0.8"
   }
 }
